@@ -15,7 +15,7 @@ tests the code. I document what works, what is still simulated, and what broke.
 
 *Third Mind is under active development; new work lands almost daily.*
 
-**Showcase:** [third-mind-showcase](https://github.com/DukeZak37/third-mind-showcase): case study, architecture and real-vs-simulated status.
+**Showcase:** [third-mind-showcase](https://github.com/DukeZak37/third-mind-showcase): case study, architecture and real-vs-simulated status. **Website:** https://dukezak37.github.io/third-mind-showcase/
 
 | What | Status |
 |---|---|
