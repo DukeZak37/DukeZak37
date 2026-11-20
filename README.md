@@ -23,7 +23,10 @@ tests the code. I document what works, what is still simulated, and what broke.
 | Telegram community bot with a join welcome | REPORTED LIVE |
 | Agent hub with shared memory, approvals, budgets and audit log | DEV-TESTED |
 | GPT and Grok replies in Discord | SIMULATED |
-| Cloud deployment, Grok bot, paper-trading research | PLANNED |
+| Dedicated Grok Slack bot (the team uses a human-relayed workflow today) | PLANNED |
+| Paper-trading research (no real orders) | PLANNED |
+
+See the [showcase status](https://github.com/DukeZak37/third-mind-showcase/blob/main/docs/STATUS.md) for evidence and limits.
 
 **How I work:** bots are always labeled, nothing risky happens without my approval, simulated output says so, and no
 secrets go in Git.
